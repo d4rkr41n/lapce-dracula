@@ -3,4 +3,6 @@ version = "0.1.0"
 author = "d4rkr41n"
 display-name = "Dracula"
 description = "A dark theme for Lapce"
+repository = "https://github.com/d4rkr41n/lapce-dracula/"
+icon = "dracula-icon.svg"
 color-themes = ["dracula.toml"]
